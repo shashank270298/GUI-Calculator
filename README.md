@@ -23,9 +23,9 @@ This app performs basic arithmetic operations like **addition, subtraction, mult
 
 ## 📸 Screenshots
 
-| Calculator UI | History Feature |
+| Calculator UI | App UI |
 |--------------|-----------------|
-| ![Calculator](screenshots/calculator_ui.png) |
+| ![Calculator](screenshots/calculator_ui.png) | ![Calculatorapp](screenshots/calculator_app.png) |
 
 ---
 
